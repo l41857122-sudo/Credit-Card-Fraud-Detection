@@ -1,4 +1,9 @@
 #  Credit Card Fraud Detection using Machine Learning
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 A machine learning project that detects whether a credit card transaction is **Genuine** or **Fraudulent** using multiple classification algorithms.
 
