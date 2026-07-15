@@ -9,7 +9,7 @@ A machine learning project that detects whether a credit card transaction is **G
 
 The project compares Logistic Regression, Decision Tree, and Random Forest models and selects the best-performing model based on evaluation metrics.
 
-![alt text](image.png)
+![alt text](./images/image.png)
 
 ##  Features
 
@@ -113,7 +113,7 @@ Random Forest is an ensemble learning algorithm that combines multiple Decision 
 
 **Performance**
 
-![Random Forest](images/random_forest.png)
+
 
 ![alt text](./images/image-3.png)
 
