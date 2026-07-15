@@ -89,7 +89,7 @@ Each model was evaluated using:
 
 The best-performing model was selected based on its overall performance.
 
-![alt text](image-4.png)
+![alt text](,/images/image-4.png)
 
 ### 1. Logistic Regression
 
@@ -97,7 +97,7 @@ Logistic Regression is a supervised machine learning algorithm used for binary c
 
 **Performance**
 
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
 ### 2. Decision Tree
 
@@ -105,7 +105,7 @@ Decision Tree is a supervised learning algorithm that makes predictions by creat
 
 **Performance**
 
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
 
 ### 3. Random Forest
 
